@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="29313815-60b2-45c4-a030-c45c483a19a3" name="shuaian">
+        <fileTransfer accessType="SFTP" host="qhdlink.lanyun.net" port="44734" sshConfigId="8b7961be-9a3c-4d91-81f8-3517ad73a3fe" sshConfig="root@qhdlink.lanyun.net:44734 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7bb803a9-5539-4b99-b54a-17f1c5a60b8c" name="wangsiyidashabei">
+        <fileTransfer accessType="SFTP" host="qhdlink.lanyun.net" port="49971" sshConfigId="fa3cb7e0-9549-469f-98cd-0e4a5991b78c" sshConfig="root@qhdlink.lanyun.net:49971 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
