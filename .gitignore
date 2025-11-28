@@ -1,2 +1,19 @@
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+# 屏蔽所有模型权重
+*.pth
+*.ckpt
+*.bin
+*.h5
+*.onnx
+
+# 屏蔽数据目录
+data/
+dataset/
+raw_data/
+
+# 屏蔽虚拟环境
+venv/
+.env/
+
+# 屏蔽IDE配置
+.idea/
+.vscode/
