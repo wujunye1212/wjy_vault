@@ -17,3 +17,6 @@ venv/
 # 屏蔽IDE配置
 .idea/
 .vscode/
+# 屏蔽obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
