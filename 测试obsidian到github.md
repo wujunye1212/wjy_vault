@@ -1,1 +1,0 @@
-$$\begin{aligned} g \star x &\approx \theta(I) x - \theta(\tilde{L}) x \\ &= \theta(I - \tilde{L}) x \\ &= \theta \left( I - (I - \tilde{D}^{-\frac{1}{2}}\tilde{A}\tilde{D}^{-\frac{1}{2}}) \right) x \\ &= \theta \left( \tilde{D}^{-\frac{1}{2}}\tilde{A}\tilde{D}^{-\frac{1}{2}} \right) x \end{aligned}$$
