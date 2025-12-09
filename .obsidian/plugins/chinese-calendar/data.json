@@ -1,0 +1,25 @@
+{
+  "daily": {
+    "useQuickAdd": false,
+    "quickAddChoice": ""
+  },
+  "weekly": {
+    "useQuickAdd": false,
+    "quickAddChoice": ""
+  },
+  "monthly": {
+    "useQuickAdd": false,
+    "quickAddChoice": ""
+  },
+  "quarterly": {
+    "useQuickAdd": false,
+    "quickAddChoice": ""
+  },
+  "yearly": {
+    "useQuickAdd": false,
+    "quickAddChoice": ""
+  },
+  "appearance": {
+    "useScale": false
+  }
+}
