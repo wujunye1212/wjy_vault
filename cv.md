@@ -59,7 +59,7 @@
 
 **应用**：
 
-1. 秩估计：$\text{rank}(A) = #{\sigma_i > 0}$
+1. 秩估计：$\text{rank}(A) = {\sigma_i > 0}$
     
 2. 伪逆(Moore-Penrose Pseudoinverse)： $$A^+ = V\Sigma^+ U^T$$ 其中$\Sigma^+$将$\Sigma$中非零元素取倒数，零保持为零。
     
@@ -336,7 +336,7 @@ $\mathbb{R}^n$上的范数$|\cdot|$满足：
 
 **收敛性质**：
 
-- 二阶收敛：$|\mathbf{x}_{t+1} - \mathbf{x}^_| \leq C|\mathbf{x}_t - \mathbf{x}^_|^2$
+- 二阶收敛：∥xt+1​−x∗∥≤C∥xt​−x∗∥2
 - 极少次数的迭代到达精度要求
 
 **缺点**：
