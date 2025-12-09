@@ -377,8 +377,9 @@ $\mathbb{R}^n$上的范数$|\cdot|$满足：
 
 拉格朗日函数： $$\mathcal{L}(\mathbf{x}, \lambda) = f(\mathbf{x}) + \sum_{i=1}^m \lambda_i g_i(\mathbf{x})$$
 
-必要条件(一阶)： $∇x​L(x∗,λ∗)=0$ $$\nabla_{\lambda} \mathcal{L}(\mathbf{x}^_, \lambda^_) = \mathbf{0}$$
-
+必要条件(一阶)： $∇x​L(x∗,λ∗)=0$ 
+  $\nabla_{\lambda} \mathcal{L}(\mathbf{x}^_, \lambda^_) = \mathbf{0}$
+$\nabla_{\lambda} \mathcal{L}(\mathbf{x}^_, \lambda^_) = \mathbf{0}$
 ---
 
 **KKT条件(Karush-Kuhn-Tucker Conditions)**
