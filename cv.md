@@ -379,7 +379,7 @@ $\mathbb{R}^n$上的范数$|\cdot|$满足：
 
 必要条件(一阶)： $∇x​L(x∗,λ∗)=0$ 
   $\nabla_{\lambda} \mathcal{L}(\mathbf{x}^_, \lambda^_) = \mathbf{0}$
-$\nabla_{\lambda} \mathcal{L}(\mathbf{x}^_, \lambda^_) = \mathbf{0}$
+$\nabla_{\lambda} \mathcal{L}(\mathbf{x}^_,\lambda^_) = \mathbf{0}$
 ---
 
 **KKT条件(Karush-Kuhn-Tucker Conditions)**
