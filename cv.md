@@ -389,8 +389,8 @@ $\mathbb{R}^n$上的范数$|\cdot|$满足：
 KKT必要条件：
 
 1. 可行性：$g_i(\mathbf{x}^*) \leq 0,\ h_j(\mathbf{x}^*) = 0$
-2. 梯度条件：$\nabla f(\mathbf{x}^_) + \sum_{i} \mu_i^_ \nabla g_i(\mathbf{x}^_) + \sum_j \lambda_j^_ \nabla h_j(\mathbf{x}^*) = \mathbf{0}$
-3. 互补松弛(Complementary Slackness)：$\mu_i^* g_i(\mathbf{x}^_) = 0$，$\mu_i^_ \geq 0$
+2. 梯度条件：$\nabla f(\mathbf{x}^*) + \sum_i \mu_i^* \nabla g_i(\mathbf{x}^*) + \sum_j \lambda_j^* \nabla h_j(\mathbf{x}^*) = \mathbf{0}$
+3. 互补松弛(Complementary Slackness)：$\mu_i^* g_i(\mathbf{x}^*) = 0,\ \mu_i^* \geq 0$
 
 对于凸问题，KKT条件是充要条件。
 
